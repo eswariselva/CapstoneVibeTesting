@@ -10,20 +10,20 @@ The BookNow application is a hotel booking app used to book hotel rooms based on
 - Feature 4: Confirmation
 
 ##  Workflow
-1.Requirements&Validation - Claude
-2.TestPlan - Devin
-3.TestScenarios - Claude
-4.Testcases - Devin
-5.Exploratory session - Antigravity
-6.Bug Reports -
-7.Test Reports - 
+- 1.Requirements&Validation - Claude
+- 2.TestPlan - Devin
+- 3.TestScenarios - Claude
+- 4.Testcases - Devin
+- 5.Exploratory session - Antigravity
+- 6.Bug Reports -
+- 7.Test Reports - 
 
 ## AI Work Review
 
-1.**Coverage**- Did it cover all categories that are requested for?
-2.**Relevance**- Does each test make sense for this specific app? Fix mismatches
-3.**Accuracy**- Are these steps are executable in UI ?
-4.**Gaps**- What do I know that AI does not?
+- 1.**Coverage**- Did it cover all categories that are requested for?
+- 2.**Relevance**- Does each test make sense for this specific app? Fix mismatches
+- 3.**Accuracy**- Are these steps are executable in UI ?
+- 4.**Gaps**- What do I know that AI does not?
 
 
 ## 🛠️ Tech Stack
